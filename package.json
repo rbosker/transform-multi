@@ -1,9 +1,26 @@
 {
-    "name": "my-app",
-    "version": "0.1.0",
-    "private": true,
-    "scripts": {},
-    "dependencies": {
-        "style-dictionary": "^3.0.2"
+  "scripts": {},
+  "dependencies": {
+    "style-dictionary": {
+      "value": "^3.0.2",
+      "type": "other"
     }
+  },
+  "$themes": [
+    {
+      "id": "23f40700f5c004d7399d769a5439192e46028c66",
+      "name": "adfs",
+      "selectedTokenSets": {
+        "scripts": "enabled",
+        "dependencies": "source"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "scripts",
+      "dependencies"
+    ]
+  }
 }
