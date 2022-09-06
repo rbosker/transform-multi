@@ -10,7 +10,12 @@
         "type": "color"
       },
       "700": {
-        "value": "#1cba5d",
+ test
+        "value": "#c9a616",
+"type": "color"
+        
+ main
+"value": "#1cba5d",
         "type": "color"
       }
     },
