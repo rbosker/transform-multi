@@ -1,5 +1,14 @@
 {
-  "scripts": {},
+  "scripts": {
+    "jhv": {
+      "value": "#1e0413",
+      "type": "color"
+    },
+    "uoi": {
+      "value": "rgba(0,0,0,0.17)",
+      "type": "color"
+    }
+  },
   "dependencies": {
     "style-dictionary": {
       "value": "^3.0.2",
