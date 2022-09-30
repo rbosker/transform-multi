@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "dark",
     "global",
-    "input",
-    "light"
+    "light",
+    "dark",
+    "theme"
   ]
 }
