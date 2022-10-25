@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c544e3b5c74933f3cb773f292e329ff3df777bab",
+    "name": "purple",
+    "selectedTokenSets": {
+      "global": "source",
+      "red": "disabled",
+      "blue": "disabled",
+      "green": "disabled",
+      "purple": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "fg.default": "S:637d7e16ae2c908bf2b2b22c9a8d22f9d81afd66,",
+      "fg.muted": "S:afd0911a8d5a5500051a7405f9cbb08c3f033792,",
+      "fg.subtle": "S:a38c8e1bf5ec9fe76acbe12b9a8cab98f4fce510,",
+      "fg.text": "S:27f2c6d67286926e5677981f42a3c0454b08ae61,",
+      "bg.default": "S:584f346be2127c3ed8950a2d90245bdf71a27b91,",
+      "bg.muted": "S:f737a290f3d61ea775239a6bbe2201444b1a1626,",
+      "bg.subtle": "S:88739e0c0783f8bfdb30c52f5506b599f7f1e847,",
+      "Primary.default": "S:70e99b37756675bc1fb6ebed19c64dfd8c1bf399,",
+      "shadows.default": "S:1d2aad8aeec77f348e95c9b4b05a54042b44aab9,",
+      "header.bgcolor": "S:11747b9a31eda43853ce72283ea1b481ee35fa71,",
+      "Secundary.100": "S:5e82c0b1baf72de55183f7aeb8186d3709cc477f,",
+      "Secundary.200": "S:f8d8b437b8e0aab65d16b116678dac7a1cc7ecf9,",
+      "text.shadow": "S:109f2cc8de945555be8d5e89528a2d6f915aede6,",
+      "Secundary.300": "S:9483a197566612f2e18a23786feddf7dd2572673,"
+    }
+  },
+  {
+    "id": "41ced7f4cd5bca6ea4e9064d0d8f57de0bb19582",
+    "name": "red",
+    "selectedTokenSets": {
+      "global": "source",
+      "red": "enabled",
+      "blue": "disabled",
+      "green": "disabled",
+      "purple": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "fg.default": "S:eb5caf58a7d9ad83b999fa945326c97cfc7bc453,",
+      "fg.muted": "S:39d5f7138714addd322dc627e574637c2e3c7c79,",
+      "fg.subtle": "S:4ac8a77bc6f503c5809c712a326c86e599b6c296,",
+      "fg.text": "S:1377f2c118e453b6f2d92d47df3b0aec387698c5,",
+      "bg.default": "S:a9e2aee8a470a973a4b817c6a1323bbf60a70a42,",
+      "bg.muted": "S:be6c3d0dea6f161686c3428c3c3b859fbe8bb6c4,",
+      "bg.subtle": "S:368e2df2550632adb86cf652493712104b24d3b5,",
+      "Primary.default": "S:6a74ed493b2af5f604efaa2511acc6c43a57f95c,",
+      "shadows.default": "S:d6d60d06156410c3ef01fe4b6881e64a251f0b5f,",
+      "header.bgcolor": "S:cc1dda3d184f722617e196e0251652454377a26b,",
+      "Secundary.100": "S:c7221861393c354da0687790895651b565e0247f,",
+      "Secundary.200": "S:5cf2ff1ca8b3c6413194c29c66987e1457c4697f,",
+      "text.shadow": "S:525266211fb12945e71ae63b5943d1dd8b9719e2,",
+      "Secundary.300": "S:2abe8897f6da2723ea0252cb9281750197075b0f,"
+    }
+  },
+  {
+    "id": "d25b82a9dec434621ed21f9c3732bb0d47290194",
+    "name": ".green",
+    "selectedTokenSets": {
+      "global": "source",
+      "red": "disabled",
+      "blue": "disabled",
+      "green": "enabled",
+      "purple": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "fg.default": "S:21ed38b6733cabaef6cdeea45f021664a667a67f,",
+      "fg.muted": "S:987d1b1d3193a727978df67315d446c299692b8c,",
+      "fg.subtle": "S:6fe0852a1b48a813d12a51eb2e2ce20ba07b8bac,",
+      "fg.text": "S:5b9279c1f2c137227c7925b9e3b8a3b162dbcefc,",
+      "bg.default": "S:4e530acc78a2fc254cb781467a0b5abf7d238336,",
+      "bg.muted": "S:8ddddc0aeff3f0593380960da6b9b1a11c39e6fa,",
+      "bg.subtle": "S:fcedda6f3be7cf82f397d63cc3219ef88cef8045,",
+      "Primary.default": "S:0a39ad843343662007c113f7f63ff4f7cca32031,",
+      "shadows.default": "S:dde5ac14fa1254f66e56d0667746e467f6e46a42,",
+      "header.bgcolor": "S:154ef652618ab9b57b59c1dfa37ec16a20386e0e,",
+      "Secundary.100": "S:e40affb14d5dfb6e1cd8b67c98ba2f5bfab01ac7,",
+      "Secundary.200": "S:91239590990250cd823aab73e3cfb6607ce085be,",
+      "text.shadow": "S:284779113f2a82923f10c9a2b9307d71509b3c68,",
+      "Secundary.300": "S:4e39a50af6bc01ffce668ea318b3ad2c6a3f6929,"
+    }
+  },
+  {
+    "id": "0fc069bd3a4e36b55f617516bc8c7fbcdfc796ac",
+    "name": "ablue",
+    "selectedTokenSets": {
+      "global": "source",
+      "red": "disabled",
+      "blue": "enabled",
+      "green": "disabled",
+      "purple": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "fg.default": "S:3e21573b5f216a3563617bc15066f1ae46f78c20,",
+      "fg.muted": "S:e16a4055bdfdf3be3103ff035e83972d32c01aea,",
+      "fg.subtle": "S:e24bf0196f8f5a7e34f905a0f37a97e6b35702c3,",
+      "fg.text": "S:306cdae6b492d0445979f14e261f9c89cb731aa6,",
+      "bg.default": "S:d0949a096203d6e8993e9e4ac54c9d07a286edbc,",
+      "bg.muted": "S:db42cd0104caaf53c3f0be281f9d26a5706093e7,",
+      "bg.subtle": "S:8be348fe231cff4a191c183dc98cf55f667224fe,",
+      "Primary.default": "S:bba455e81537c4dc826362b3ac9ac65c6e5b207a,",
+      "shadows.default": "S:fb3951f4b48e9d350dc267e5ea00daa5f7cf7909,",
+      "header.bgcolor": "S:b91c971eea6f27c5f59a5e513725eefef63e8071,",
+      "Secundary.100": "S:ba9a694ac4cbde9ac8bb0f3ad7d6a9b7d79bd077,",
+      "Secundary.200": "S:a4f095b60938f6ad4ace66633e1fb60e24f6f43b,",
+      "text.shadow": "S:578816c2a9375f0684f14cdc6637fd0e8c225692,",
+      "Secundary.300": "S:c6c47f952252d4cc1b48ab4a13d15a4688ca7093,"
+    }
+  }
+]
