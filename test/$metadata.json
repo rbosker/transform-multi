@@ -1,7 +1,9 @@
 {
   "tokenSetOrder": [
-    "global/color",
-    "explor/nightfall",
-    "components/DragCard"
+    "global",
+    "red",
+    "blue",
+    "green",
+    "purple"
   ]
 }
